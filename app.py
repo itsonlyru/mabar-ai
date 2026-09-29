@@ -4,7 +4,7 @@ import time
 # ضبط إعدادات الصفحة والواجهة
 st.set_page_config(
     page_title="مَعْبَر AI | Ma'bar AI",
-    page_icon="🌿",
+    ,
     layout="centered"
 )
 
